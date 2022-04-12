@@ -1,8 +1,8 @@
-- 👋 Hi, I’m (Hugo Porfirio)@paezitow.
+- 👋 Hi, I’m (Hugo Porfirio) @paezitow.
 
-- 👀 I’m interested in Android Development and everything related to it.
+- 👀 I’m interested in Java and Game Development and everything related to it.
 
-- 🌱 I’m currently learning Java and Kotlin, Angular and JavaScript.
+- 🌱 I’m currently learning Java, Angular and JavaScript.
 
 - 💞️ I’m looking to collaborate on Java Projects and API's.
 
